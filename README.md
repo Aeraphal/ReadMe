@@ -175,20 +175,3 @@ Informatique graphique, VR/AR, traitement d'images et GPU programming
 📷 Projets Computer Vision : 5+
 🖥️ Projets bas niveau : 8+
 ```
-
----
-
-## 📬 Contact
-
-Pour toute question sur un projet ou collaboration :
-- 📧 Email : [ton.email@example.com]
-- 💼 LinkedIn : [Ton profil LinkedIn]
-- 🌐 Portfolio : [Ton site web]
-
----
-
-<div align="center">
-
-**⭐ N'hésite pas à explorer les projets et à laisser une étoile si tu trouves quelque chose d'intéressant !**
-
-</div>
